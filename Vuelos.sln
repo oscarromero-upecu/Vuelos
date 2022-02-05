@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{58FFE3D2-6C54-43BB-878D-54F3768416F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vuelos", "Test_Vuelos_Disponibles\Vuelos.csproj", "{FEC498D5-587C-427A-8DD9-415B114B4F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vuelos_Disponibles", "Vuelos_Disponibles\Vuelos_Disponibles.csproj", "{C59838A9-80F3-4192-9556-61D80FB84BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC498D5-587C-427A-8DD9-415B114B4F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC498D5-587C-427A-8DD9-415B114B4F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC498D5-587C-427A-8DD9-415B114B4F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC498D5-587C-427A-8DD9-415B114B4F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59838A9-80F3-4192-9556-61D80FB84BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59838A9-80F3-4192-9556-61D80FB84BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59838A9-80F3-4192-9556-61D80FB84BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59838A9-80F3-4192-9556-61D80FB84BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A3885B-7A54-4F38-9AF6-018950D73D0D}
+	EndGlobalSection
+EndGlobal
